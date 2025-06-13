@@ -31,17 +31,17 @@ To get started with this project, follow these steps:
 4. **Open the Jupyter Notebooks**:
 Launch Jupyter Notebook and open the ```Exploring.ipynb``` and ```Preprocessing_and_Modeling.ipynb``` files to start your analysis.
 
-##Usage
+## Usage
 
 Use the ```Exploring.ipynb``` notebook to perform EDA on the Telco Customer Churn dataset, visualizing key metrics and identifying trends.
 The ```Preprocessing_and_Modeling.ipynb``` notebook guides you through data cleaning, feature engineering, and model training.
 Load the saved models (```LR_Churn_model.pkl and RF_Churn_model.pkl```) to make predictions on new data.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or would like to add features, please fork the repository and submit a pull request.
 
-##Acknowledgments
+## Acknowledgments
 
 Thanks to the contributors of the Telco Customer Churn dataset.
 Inspiration from various data science and machine learning resources.
